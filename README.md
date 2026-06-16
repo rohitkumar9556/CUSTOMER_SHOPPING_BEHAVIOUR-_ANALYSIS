@@ -1,2 +1,2 @@
-# CUSTOMER_SHOPPING_BEHAVIOUR-_ANALYSIS
-Used SQL for data extraction, Python for cleaning and analysis, and Power BI for dashboards to uncover customer purchasing trends, segmentation, and sales insights.
+# CUSTOMER SHOPPING_BEHAVIOUR ANALYSIS PORTFOLIO PROJECT
+This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
